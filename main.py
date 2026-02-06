@@ -62,3 +62,4 @@ x_test_prediction=classifier.predict(x_test)
 test_data_accuracy=accuracy_score(x_test_prediction,y_test)
 print('accuracy is',test_data_accuracy)
 
+
